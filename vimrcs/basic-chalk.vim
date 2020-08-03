@@ -142,7 +142,7 @@ set cmdheight=1
 set hid
 
 " Cursor motion
-set scrolloff=3
+" set scrolloff=3
 
 set matchpairs+=<:> " use % to jump between pairs
 runtime! macros/matchit.vim
